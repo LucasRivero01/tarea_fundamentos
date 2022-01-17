@@ -1,5 +1,6 @@
 const fs = require('fs');
 
+
 const factor = 5;
 let resultado = '';
 

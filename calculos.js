@@ -15,6 +15,7 @@ const crearArchivo = (factor = 8) => {
 
 }
 
+
 module.exports = {
     crearArchivo,
 }
